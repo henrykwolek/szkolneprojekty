@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0J2FP1tHgy2GtTzYAUJHoKGsofHDLGT36Y+EjflpoWsKwnj7zPNLtpDYfAiM6EZoRVB+n+WcHr7iYsbskTa5YQ==",
+  "success": true,
+  "projectFilePath": "c:\\Programming\\School\\crud-cpp-cs\\IntroLibrary\\IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

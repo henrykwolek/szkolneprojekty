@@ -6,6 +6,7 @@
         "ostream": "cpp",
         "ctime": "cpp",
         "string": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "iosfwd": "cpp"
     }
 }

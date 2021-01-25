@@ -1,0 +1,16 @@
+C:\Programming\School\csEncryption\bin\Debug\net5.0\csEncryption.exe
+C:\Programming\School\csEncryption\bin\Debug\net5.0\csEncryption.deps.json
+C:\Programming\School\csEncryption\bin\Debug\net5.0\csEncryption.runtimeconfig.json
+C:\Programming\School\csEncryption\bin\Debug\net5.0\csEncryption.runtimeconfig.dev.json
+C:\Programming\School\csEncryption\bin\Debug\net5.0\csEncryption.dll
+C:\Programming\School\csEncryption\bin\Debug\net5.0\ref\csEncryption.dll
+C:\Programming\School\csEncryption\bin\Debug\net5.0\csEncryption.pdb
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.csprojAssemblyReference.cache
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.AssemblyInfoInputs.cache
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.AssemblyInfo.cs
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.csproj.CoreCompileInputs.cache
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.dll
+C:\Programming\School\csEncryption\obj\Debug\net5.0\ref\csEncryption.dll
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.pdb
+C:\Programming\School\csEncryption\obj\Debug\net5.0\csEncryption.genruntimeconfig.cache

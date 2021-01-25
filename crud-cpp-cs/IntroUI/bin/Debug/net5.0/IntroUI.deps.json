@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IntroUI/1.0.0": {
+        "dependencies": {
+          "IntroLibrary": "1.0.0"
+        },
+        "runtime": {
+          "IntroUI.dll": {}
+        }
+      },
+      "IntroLibrary/1.0.0": {
+        "runtime": {
+          "IntroLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

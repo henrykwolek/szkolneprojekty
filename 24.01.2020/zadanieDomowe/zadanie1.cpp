@@ -2,16 +2,14 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <bits/stdc++.h>
 #include <cstdlib>
 
 using namespace std;
 
 int main() {
     fstream fs, ans;
-    string word, line, reversedWord, toWrite;
+    string word, line, reversedWord;
     int j = 1;
-
     fs.open("dane.txt", ios::in);
     ans.open("palindromy.txt", ios::out);
     //Sprawdzanie plików
@@ -24,22 +22,29 @@ int main() {
         while (fs.good() && ans.good())
         {
             getline(fs, line);
+            //Dwie identyczne zmienne string, jedna zostanie obrócona
             word = line;
             reversedWord = word;
-            //Odwrócenie łancucha string
-            reverse(reversedWord.begin(), reversedWord.end());
+            int n = word.length();
+
+            //Obrócenie metodą swap() drugiej zmiennej string
+            for (int i = 0; i < (n / 2); i++)
+            {
+                swap(reversedWord[i], reversedWord[n - i - 1]);
+            }
+
+            //Przyrównanie dwóch stringów do siebie i zwrócenie wartości true/false
             if (word == reversedWord)
             {
                 cout << word << " -> jest palindromem.\n";
                 j++;
                 //Zapisanie znalezionego słowa do nowego pliku
                 ans << word << "\n";
-                ans.flush();
             }   
         }
         fs.close();
         ans.close();
         //Podsumowanie programu
-        cout << "Wystąpiło " << j << " palindromów.";   
+        cout << "Wystąpiło " << j << " palindromów.";
     }
 }

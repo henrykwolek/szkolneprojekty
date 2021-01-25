@@ -1,0 +1,12 @@
+C:\Programming\School\crud-cpp-cs\IntroLibrary\bin\Debug\net5.0\IntroLibrary.deps.json
+C:\Programming\School\crud-cpp-cs\IntroLibrary\bin\Debug\net5.0\IntroLibrary.dll
+C:\Programming\School\crud-cpp-cs\IntroLibrary\bin\Debug\net5.0\ref\IntroLibrary.dll
+C:\Programming\School\crud-cpp-cs\IntroLibrary\bin\Debug\net5.0\IntroLibrary.pdb
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.csprojAssemblyReference.cache
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.AssemblyInfoInputs.cache
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.AssemblyInfo.cs
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.csproj.CoreCompileInputs.cache
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.dll
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\ref\IntroLibrary.dll
+C:\Programming\School\crud-cpp-cs\IntroLibrary\obj\Debug\net5.0\IntroLibrary.pdb

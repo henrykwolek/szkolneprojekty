@@ -1,0 +1,16 @@
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\deadlyKeyGrabber.exe
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\deadlyKeyGrabber.deps.json
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\deadlyKeyGrabber.runtimeconfig.json
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\deadlyKeyGrabber.runtimeconfig.dev.json
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\deadlyKeyGrabber.dll
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\ref\deadlyKeyGrabber.dll
+C:\Programming\School\deadlyKeyGrabber\bin\Debug\net5.0\deadlyKeyGrabber.pdb
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.csprojAssemblyReference.cache
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.AssemblyInfoInputs.cache
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.AssemblyInfo.cs
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.csproj.CoreCompileInputs.cache
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.dll
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\ref\deadlyKeyGrabber.dll
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.pdb
+C:\Programming\School\deadlyKeyGrabber\obj\Debug\net5.0\deadlyKeyGrabber.genruntimeconfig.cache
