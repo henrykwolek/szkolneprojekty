@@ -1,0 +1,10 @@
+1 część: 
+Wiecej zer niz jedynek: 422
+
+2 część: 
+Tyle liczb jest podzielnych przez 2: 500
+A tyle przez 8: 123
+
+3 część: 
+Najmniejsza liczba znajduje się na wierszu nr: 859
+Największa liczba znajduje się na wierszu nr: 925
