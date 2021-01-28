@@ -111,7 +111,8 @@ int main()
     //Dzięki temu mogłem sprawdzić poniższą kombinacją dwóch pętli for na jakim wierszu się znajduje.
 
     //Zmienna int która zlicza nieprzerwane występowanie jedynek
-    int continuousOneOccurenceInGivenArrRow = 0;
+    int continuousOneOccurenceInGivenArrRow = 0, maxOccurences = 0;
+    vector<int> oneOccurences;
     //Ta pętla sprawdzi każdą liczbę z każdego wiersza pliku
     for (int m = 0; m < numbers.size(); m++)
     {
@@ -146,6 +147,10 @@ int main()
             trzeciaOdpNajwieksza = "Największa liczba znajduje się na wierszu nr: " + to_string(m + 1);
         }
         //Za każdym powtórzeniem dużej pętli for resetowana jest zmienna licząca ilość jedynek w ciągu
+        //oneOccurences.push_back(continuousOneOccurenceInGivenArrRow);
+        // maxOccurences = *max_element(oneOccurences.begin(), oneOccurences.end());
+
+        //W powyższy sposób znalazłem największy nieprzerwany ciąg jedynek który wynosi 9 cyfr
         continuousOneOccurenceInGivenArrRow = 0;
     }
 
@@ -163,6 +168,7 @@ int main()
             smallBinaryNumbers.push_back(atoi(numbers[o].c_str()));
         }
         //binaryNumbersLengths.push_back(numbers[o].size());
+        //Zostały one wpisany powyższą linią i metoda *min_element() wskazała najmniejszą długosć wynoszącą 3
     }
 
     //Ta funkcja znajdzie najmniejszą wartość jaka istnieje wśród wczytanych 1000 liczb
@@ -179,7 +185,7 @@ int main()
         }
     }
 
-    //Wpisanie odpowiedzi - podsumowanie programu.
+    //Wpisanie odpowiedzi - podsumowanie
 
     //1 część - odpowiedzi
     fWrite << "1 część: \n" << "Wiecej zer niz jedynek: " << wiecejZerNizJedynek << "\n\n";
