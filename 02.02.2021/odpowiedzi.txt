@@ -1,0 +1,3104 @@
+Najjaśniejszy element: 221
+Najciemniejszy element: 7
+
+oś symetri tylko na wierszu nr 75
+
+Kontrasty
+================================================
+Piksel o współrzędnych (4, 25) 
+Pozioma różnica => 3
+Pionowa różnica => 181
+
+Piksel o współrzędnych (4, 54) 
+Pozioma różnica => -7
+Pionowa różnica => 184
+
+Piksel o współrzędnych (4, 112) 
+Pozioma różnica => -8
+Pionowa różnica => 191
+
+Piksel o współrzędnych (4, 158) 
+Pozioma różnica => -6
+Pionowa różnica => 190
+
+Piksel o współrzędnych (4, 161) 
+Pozioma różnica => 0
+Pionowa różnica => 184
+
+Piksel o współrzędnych (4, 207) 
+Pozioma różnica => -14
+Pionowa różnica => 191
+
+Piksel o współrzędnych (4, 265) 
+Pozioma różnica => 0
+Pionowa różnica => 184
+
+Piksel o współrzędnych (4, 294) 
+Pozioma różnica => -4
+Pionowa różnica => 181
+
+Piksel o współrzędnych (5, 24) 
+Pozioma różnica => -181
+Pionowa różnica => -4
+
+Piksel o współrzędnych (5, 25) 
+Pozioma różnica => 179
+Pionowa różnica => -185
+
+Piksel o współrzędnych (5, 53) 
+Pozioma różnica => -176
+Pionowa różnica => 1
+
+Piksel o współrzędnych (5, 54) 
+Pozioma różnica => 188
+Pionowa różnica => -182
+
+Piksel o współrzędnych (5, 111) 
+Pozioma różnica => -189
+Pionowa różnica => 11
+
+Piksel o współrzędnych (5, 112) 
+Pozioma różnica => 187
+Pionowa różnica => -186
+
+Piksel o współrzędnych (5, 157) 
+Pozioma różnica => -183
+Pionowa różnica => -4
+
+Piksel o współrzędnych (5, 158) 
+Pozioma różnica => 185
+Pionowa różnica => -188
+
+Piksel o współrzędnych (5, 160) 
+Pozioma różnica => -185
+Pionowa różnica => -9
+
+Piksel o współrzędnych (5, 161) 
+Pozioma różnica => 183
+Pionowa różnica => -188
+
+Piksel o współrzędnych (5, 206) 
+Pozioma różnica => -187
+Pionowa różnica => 12
+
+Piksel o współrzędnych (5, 207) 
+Pozioma różnica => 189
+Pionowa różnica => -186
+
+Piksel o współrzędnych (5, 264) 
+Pozioma różnica => -188
+Pionowa różnica => 13
+
+Piksel o współrzędnych (5, 265) 
+Pozioma różnica => 176
+Pionowa różnica => -182
+
+Piksel o współrzędnych (5, 293) 
+Pozioma różnica => -179
+Pionowa różnica => -7
+
+Piksel o współrzędnych (5, 294) 
+Pozioma różnica => 181
+Pionowa różnica => -180
+
+Piksel o współrzędnych (6, 32) 
+Pozioma różnica => 0
+Pionowa różnica => 185
+
+Piksel o współrzędnych (6, 65) 
+Pozioma różnica => 0
+Pionowa różnica => 178
+
+Piksel o współrzędnych (6, 78) 
+Pozioma różnica => -7
+Pionowa różnica => 188
+
+Piksel o współrzędnych (6, 96) 
+Pozioma różnica => 5
+Pionowa różnica => 184
+
+Piksel o współrzędnych (6, 109) 
+Pozioma różnica => -4
+Pionowa różnica => 182
+
+Piksel o współrzędnych (6, 127) 
+Pozioma różnica => -2
+Pionowa różnica => 195
+
+Piksel o współrzędnych (6, 145) 
+Pozioma różnica => 10
+Pionowa różnica => 185
+
+Piksel o współrzędnych (6, 174) 
+Pozioma różnica => 5
+Pionowa różnica => 185
+
+Piksel o współrzędnych (6, 192) 
+Pozioma różnica => -6
+Pionowa różnica => 195
+
+Piksel o współrzędnych (6, 210) 
+Pozioma różnica => 2
+Pionowa różnica => 182
+
+Piksel o współrzędnych (6, 223) 
+Pozioma różnica => 11
+Pionowa różnica => 184
+
+Piksel o współrzędnych (6, 241) 
+Pozioma różnica => -9
+Pionowa różnica => 188
+
+Piksel o współrzędnych (6, 254) 
+Pozioma różnica => 9
+Pionowa różnica => 178
+
+Piksel o współrzędnych (6, 287) 
+Pozioma różnica => 4
+Pionowa różnica => 173
+
+Piksel o współrzędnych (7, 31) 
+Pozioma różnica => -181
+Pionowa różnica => 2
+
+Piksel o współrzędnych (7, 32) 
+Pozioma różnica => 179
+Pionowa różnica => -178
+
+Piksel o współrzędnych (7, 64) 
+Pozioma różnica => -185
+Pionowa różnica => 0
+
+Piksel o współrzędnych (7, 65) 
+Pozioma różnica => 182
+Pionowa różnica => -172
+
+Piksel o współrzędnych (7, 77) 
+Pozioma różnica => -187
+Pionowa różnica => 4
+
+Piksel o współrzędnych (7, 78) 
+Pozioma różnica => 182
+Pionowa różnica => -190
+
+Piksel o współrzędnych (7, 95) 
+Pozioma różnica => -193
+Pionowa różnica => 6
+
+Piksel o współrzędnych (7, 96) 
+Pozioma różnica => 187
+Pionowa różnica => -184
+
+Piksel o współrzędnych (7, 108) 
+Pozioma różnica => -176
+Pionowa różnica => -5
+
+Piksel o współrzędnych (7, 109) 
+Pozioma różnica => 185
+Pionowa różnica => -182
+
+Piksel o współrzędnych (7, 126) 
+Pozioma różnica => -188
+Pionowa różnica => -1
+
+Piksel o współrzędnych (7, 127) 
+Pozioma różnica => 196
+Pionowa różnica => -186
+
+Piksel o współrzędnych (7, 144) 
+Pozioma różnica => -191
+Pionowa różnica => -5
+
+Piksel o współrzędnych (7, 145) 
+Pozioma różnica => 184
+Pionowa różnica => -182
+
+Piksel o współrzędnych (7, 173) 
+Pozioma różnica => -184
+Pionowa różnica => -5
+
+Piksel o współrzędnych (7, 174) 
+Pozioma różnica => 191
+Pionowa różnica => -182
+
+Piksel o współrzędnych (7, 191) 
+Pozioma różnica => -196
+Pionowa różnica => 6
+
+Piksel o współrzędnych (7, 192) 
+Pozioma różnica => 188
+Pionowa różnica => -186
+
+Piksel o współrzędnych (7, 209) 
+Pozioma różnica => -185
+Pionowa różnica => -5
+
+Piksel o współrzędnych (7, 210) 
+Pozioma różnica => 176
+Pionowa różnica => -182
+
+Piksel o współrzędnych (7, 222) 
+Pozioma różnica => -187
+Pionowa różnica => -5
+
+Piksel o współrzędnych (7, 223) 
+Pozioma różnica => 193
+Pionowa różnica => -184
+
+Piksel o współrzędnych (7, 240) 
+Pozioma różnica => -182
+Pionowa różnica => 0
+
+Piksel o współrzędnych (7, 241) 
+Pozioma różnica => 187
+Pionowa różnica => -190
+
+Piksel o współrzędnych (7, 253) 
+Pozioma różnica => -182
+Pionowa różnica => 12
+
+Piksel o współrzędnych (7, 254) 
+Pozioma różnica => 185
+Pionowa różnica => -172
+
+Piksel o współrzędnych (7, 286) 
+Pozioma różnica => -179
+Pionowa różnica => -2
+
+Piksel o współrzędnych (7, 287) 
+Pozioma różnica => 181
+Pionowa różnica => -178
+
+Piksel o współrzędnych (8, 88) 
+Pozioma różnica => -3
+Pionowa różnica => 188
+
+Piksel o współrzędnych (8, 231) 
+Pozioma różnica => -12
+Pionowa różnica => 188
+
+Piksel o współrzędnych (9, 87) 
+Pozioma różnica => -177
+Pionowa różnica => 0
+
+Piksel o współrzędnych (9, 88) 
+Pozioma różnica => 184
+Pionowa różnica => -177
+
+Piksel o współrzędnych (9, 230) 
+Pozioma różnica => -184
+Pionowa różnica => 7
+
+Piksel o współrzędnych (9, 231) 
+Pozioma różnica => 177
+Pionowa różnica => -177
+
+Piksel o współrzędnych (13, 24) 
+Pozioma różnica => -11
+Pionowa różnica => 186
+
+Piksel o współrzędnych (13, 52) 
+Pozioma różnica => -2
+Pionowa różnica => 173
+
+Piksel o współrzędnych (13, 58) 
+Pozioma różnica => 4
+Pionowa różnica => 171
+
+Piksel o współrzędnych (13, 100) 
+Pozioma różnica => -15
+Pionowa różnica => 198
+
+Piksel o współrzędnych (13, 114) 
+Pozioma różnica => 6
+Pionowa różnica => 187
+
+Piksel o współrzędnych (13, 126) 
+Pozioma różnica => 2
+Pionowa różnica => 182
+
+Piksel o współrzędnych (13, 144) 
+Pozioma różnica => 4
+Pionowa różnica => 169
+
+Piksel o współrzędnych (13, 153) 
+Pozioma różnica => 7
+Pionowa różnica => 171
+
+Piksel o współrzędnych (13, 166) 
+Pozioma różnica => 8
+Pionowa różnica => 171
+
+Piksel o współrzędnych (13, 175) 
+Pozioma różnica => 0
+Pionowa różnica => 169
+
+Piksel o współrzędnych (13, 193) 
+Pozioma różnica => 6
+Pionowa różnica => 182
+
+Piksel o współrzędnych (13, 205) 
+Pozioma różnica => 3
+Pionowa różnica => 187
+
+Piksel o współrzędnych (13, 219) 
+Pozioma różnica => 0
+Pionowa różnica => 188
+
+Piksel o współrzędnych (13, 261) 
+Pozioma różnica => -6
+Pionowa różnica => 171
+
+Piksel o współrzędnych (13, 267) 
+Pozioma różnica => 9
+Pionowa różnica => 173
+
+Piksel o współrzędnych (13, 295) 
+Pozioma różnica => -10
+Pionowa różnica => 186
+
+Piksel o współrzędnych (14, 23) 
+Pozioma różnica => -182
+Pionowa różnica => 0
+
+Piksel o współrzędnych (14, 24) 
+Pozioma różnica => 171
+Pionowa różnica => -170
+
+Piksel o współrzędnych (14, 44) 
+Pozioma różnica => -11
+Pionowa różnica => 176
+
+Piksel o współrzędnych (14, 51) 
+Pozioma różnica => -176
+Pionowa różnica => 8
+
+Piksel o współrzędnych (14, 52) 
+Pozioma różnica => 178
+Pionowa różnica => -172
+
+Piksel o współrzędnych (14, 53) 
+Pozioma różnica => -6
+Pionowa różnica => 180
+
+Piksel o współrzędnych (14, 57) 
+Pozioma różnica => -164
+Pionowa różnica => -12
+
+Piksel o współrzędnych (14, 58) 
+Pozioma różnica => 179
+Pionowa różnica => -176
+
+Piksel o współrzędnych (14, 59) 
+Pozioma różnica => -7
+Pionowa różnica => 184
+
+Piksel o współrzędnych (14, 74) 
+Pozioma różnica => -8
+Pionowa różnica => 183
+
+Piksel o współrzędnych (14, 99) 
+Pozioma różnica => -183
+Pionowa różnica => -7
+
+Piksel o współrzędnych (14, 100) 
+Pozioma różnica => 182
+Pionowa różnica => -190
+
+Piksel o współrzędnych (14, 105) 
+Pozioma różnica => -7
+Pionowa różnica => 180
+
+Piksel o współrzędnych (14, 113) 
+Pozioma różnica => -192
+Pionowa różnica => 6
+
+Piksel o współrzędnych (14, 114) 
+Pozioma różnica => 188
+Pionowa różnica => -181
+
+Piksel o współrzędnych (14, 125) 
+Pozioma różnica => -181
+Pionowa różnica => 6
+
+Piksel o współrzędnych (14, 126) 
+Pozioma różnica => 185
+Pionowa różnica => -185
+
+Piksel o współrzędnych (14, 143) 
+Pozioma różnica => -178
+Pionowa różnica => -1
+
+Piksel o współrzędnych (14, 144) 
+Pozioma różnica => 177
+Pionowa różnica => -168
+
+Piksel o współrzędnych (14, 145) 
+Pozioma różnica => -8
+Pionowa różnica => 183
+
+Piksel o współrzędnych (14, 147) 
+Pozioma różnica => 5
+Pionowa różnica => 182
+
+Piksel o współrzędnych (14, 152) 
+Pozioma różnica => -172
+Pionowa różnica => -4
+
+Piksel o współrzędnych (14, 153) 
+Pozioma różnica => 179
+Pionowa różnica => -168
+
+Piksel o współrzędnych (14, 154) 
+Pozioma różnica => 0
+Pionowa różnica => 198
+
+Piksel o współrzędnych (14, 165) 
+Pozioma różnica => -179
+Pionowa różnica => 198
+
+Piksel o współrzędnych (14, 166) 
+Pozioma różnica => 172
+Pionowa różnica => -168
+
+Piksel o współrzędnych (14, 172) 
+Pozioma różnica => 0
+Pionowa różnica => 182
+
+Piksel o współrzędnych (14, 174) 
+Pozioma różnica => -177
+Pionowa różnica => 183
+
+Piksel o współrzędnych (14, 175) 
+Pozioma różnica => 178
+Pionowa różnica => -168
+
+Piksel o współrzędnych (14, 192) 
+Pozioma różnica => -185
+Pionowa różnica => 10
+
+Piksel o współrzędnych (14, 193) 
+Pozioma różnica => 181
+Pionowa różnica => -185
+
+Piksel o współrzędnych (14, 204) 
+Pozioma różnica => -188
+Pionowa różnica => -3
+
+Piksel o współrzędnych (14, 205) 
+Pozioma różnica => 192
+Pionowa różnica => -181
+
+Piksel o współrzędnych (14, 214) 
+Pozioma różnica => -6
+Pionowa różnica => 180
+
+Piksel o współrzędnych (14, 218) 
+Pozioma różnica => -182
+Pionowa różnica => -7
+
+Piksel o współrzędnych (14, 219) 
+Pozioma różnica => 183
+Pionowa różnica => -190
+
+Piksel o współrzędnych (14, 245) 
+Pozioma różnica => -6
+Pionowa różnica => 183
+
+Piksel o współrzędnych (14, 260) 
+Pozioma różnica => -179
+Pionowa różnica => 184
+
+Piksel o współrzędnych (14, 261) 
+Pozioma różnica => 164
+Pionowa różnica => -176
+
+Piksel o współrzędnych (14, 266) 
+Pozioma różnica => -178
+Pionowa różnica => 180
+
+Piksel o współrzędnych (14, 267) 
+Pozioma różnica => 176
+Pionowa różnica => -172
+
+Piksel o współrzędnych (14, 275) 
+Pozioma różnica => 1
+Pionowa różnica => 176
+
+Piksel o współrzędnych (14, 294) 
+Pozioma różnica => -171
+Pionowa różnica => -9
+
+Piksel o współrzędnych (14, 295) 
+Pozioma różnica => 182
+Pionowa różnica => -170
+
+Piksel o współrzędnych (15, 43) 
+Pozioma różnica => -170
+Pionowa różnica => 0
+
+Piksel o współrzędnych (15, 44) 
+Pozioma różnica => 175
+Pionowa różnica => -172
+
+Piksel o współrzędnych (15, 52) 
+Pozioma różnica => -174
+Pionowa różnica => 5
+
+Piksel o współrzędnych (15, 53) 
+Pozioma różnica => 172
+Pionowa różnica => -181
+
+Piksel o współrzędnych (15, 58) 
+Pozioma różnica => -181
+Pionowa różnica => 7
+
+Piksel o współrzędnych (15, 59) 
+Pozioma różnica => 175
+Pionowa różnica => -173
+
+Piksel o współrzędnych (15, 73) 
+Pozioma różnica => -178
+Pionowa różnica => -7
+
+Piksel o współrzędnych (15, 74) 
+Pozioma różnica => 177
+Pionowa różnica => -185
+
+Piksel o współrzędnych (15, 104) 
+Pozioma różnica => -180
+Pionowa różnica => 7
+
+Piksel o współrzędnych (15, 105) 
+Pozioma różnica => 171
+Pionowa różnica => -170
+
+Piksel o współrzędnych (15, 144) 
+Pozioma różnica => -174
+Pionowa różnica => -3
+
+Piksel o współrzędnych (15, 145) 
+Pozioma różnica => 184
+Pionowa różnica => -180
+
+Piksel o współrzędnych (15, 146) 
+Pozioma różnica => -191
+Pionowa różnica => 10
+
+Piksel o współrzędnych (15, 147) 
+Pozioma różnica => 184
+Pionowa różnica => -188
+
+Piksel o współrzędnych (15, 153) 
+Pozioma różnica => -187
+Pionowa różnica => -6
+
+Piksel o współrzędnych (15, 154) 
+Pozioma różnica => 182
+Pionowa różnica => -190
+
+Piksel o współrzędnych (15, 164) 
+Pozioma różnica => -182
+Pionowa różnica => -10
+
+Piksel o współrzędnych (15, 165) 
+Pozioma różnica => 187
+Pionowa różnica => -190
+
+Piksel o współrzędnych (15, 171) 
+Pozioma różnica => -184
+Pionowa różnica => -3
+
+Piksel o współrzędnych (15, 172) 
+Pozioma różnica => 191
+Pionowa różnica => -188
+
+Piksel o współrzędnych (15, 173) 
+Pozioma różnica => -184
+Pionowa różnica => 10
+
+Piksel o współrzędnych (15, 174) 
+Pozioma różnica => 174
+Pionowa różnica => -180
+
+Piksel o współrzędnych (15, 213) 
+Pozioma różnica => -171
+Pionowa różnica => -7
+
+Piksel o współrzędnych (15, 214) 
+Pozioma różnica => 180
+Pionowa różnica => -170
+
+Piksel o współrzędnych (15, 244) 
+Pozioma różnica => -177
+Pionowa różnica => -8
+
+Piksel o współrzędnych (15, 245) 
+Pozioma różnica => 178
+Pionowa różnica => -177
+
+Piksel o współrzędnych (15, 259) 
+Pozioma różnica => -175
+Pionowa różnica => 2
+
+Piksel o współrzędnych (15, 260) 
+Pozioma różnica => 181
+Pionowa różnica => -173
+
+Piksel o współrzędnych (15, 265) 
+Pozioma różnica => -172
+Pionowa różnica => 0
+
+Piksel o współrzędnych (15, 266) 
+Pozioma różnica => 174
+Pionowa różnica => -181
+
+Piksel o współrzędnych (15, 274) 
+Pozioma różnica => -175
+Pionowa różnica => 2
+
+Piksel o współrzędnych (15, 275) 
+Pozioma różnica => 170
+Pionowa różnica => -172
+
+Piksel o współrzędnych (16, 2) 
+Pozioma różnica => 0
+Pionowa różnica => 191
+
+Piksel o współrzędnych (16, 53) 
+Pozioma różnica => -9
+Pionowa różnica => 182
+
+Piksel o współrzędnych (16, 81) 
+Pozioma różnica => 0
+Pionowa różnica => 189
+
+Piksel o współrzędnych (16, 129) 
+Pozioma różnica => 1
+Pionowa różnica => 183
+
+Piksel o współrzędnych (16, 190) 
+Pozioma różnica => -2
+Pionowa różnica => 183
+
+Piksel o współrzędnych (16, 238) 
+Pozioma różnica => 8
+Pionowa różnica => 177
+
+Piksel o współrzędnych (16, 266) 
+Pozioma różnica => -12
+Pionowa różnica => 182
+
+Piksel o współrzędnych (16, 317) 
+Pozioma różnica => -6
+Pionowa różnica => 191
+
+Piksel o współrzędnych (17, 1) 
+Pozioma różnica => -191
+Pionowa różnica => 3
+
+Piksel o współrzędnych (17, 2) 
+Pozioma różnica => 186
+Pionowa różnica => -182
+
+Piksel o współrzędnych (17, 52) 
+Pozioma różnica => -175
+Pionowa różnica => 4
+
+Piksel o współrzędnych (17, 53) 
+Pozioma różnica => 169
+Pionowa różnica => -172
+
+Piksel o współrzędnych (17, 80) 
+Pozioma różnica => -177
+Pionowa różnica => 2
+
+Piksel o współrzędnych (17, 81) 
+Pozioma różnica => 182
+Pionowa różnica => -179
+
+Piksel o współrzędnych (17, 128) 
+Pozioma różnica => -170
+Pionowa różnica => -12
+
+Piksel o współrzędnych (17, 129) 
+Pozioma różnica => 176
+Pionowa różnica => -177
+
+Piksel o współrzędnych (17, 189) 
+Pozioma różnica => -176
+Pionowa różnica => 4
+
+Piksel o współrzędnych (17, 190) 
+Pozioma różnica => 170
+Pionowa różnica => -177
+
+Piksel o współrzędnych (17, 237) 
+Pozioma różnica => -182
+Pionowa różnica => -4
+
+Piksel o współrzędnych (17, 238) 
+Pozioma różnica => 177
+Pionowa różnica => -179
+
+Piksel o współrzędnych (17, 265) 
+Pozioma różnica => -169
+Pionowa różnica => -3
+
+Piksel o współrzędnych (17, 266) 
+Pozioma różnica => 175
+Pionowa różnica => -172
+
+Piksel o współrzędnych (17, 316) 
+Pozioma różnica => -186
+Pionowa różnica => 10
+
+Piksel o współrzędnych (17, 317) 
+Pozioma różnica => 191
+Pionowa różnica => -182
+
+Piksel o współrzędnych (26, 0) 
+Pozioma różnica => -5
+Pionowa różnica => 168
+
+Piksel o współrzędnych (26, 16) 
+Pozioma różnica => -1
+Pionowa różnica => 167
+
+Piksel o współrzędnych (26, 45) 
+Pozioma różnica => -9
+Pionowa różnica => 186
+
+Piksel o współrzędnych (26, 61) 
+Pozioma różnica => 14
+Pionowa różnica => 171
+
+Piksel o współrzędnych (26, 67) 
+Pozioma różnica => -3
+Pionowa różnica => 174
+
+Piksel o współrzędnych (26, 72) 
+Pozioma różnica => -3
+Pionowa różnica => 186
+
+Piksel o współrzędnych (26, 247) 
+Pozioma różnica => -8
+Pionowa różnica => 186
+
+Piksel o współrzędnych (26, 252) 
+Pozioma różnica => 2
+Pionowa różnica => 174
+
+Piksel o współrzędnych (26, 258) 
+Pozioma różnica => 0
+Pionowa różnica => 183
+
+Piksel o współrzędnych (26, 274) 
+Pozioma różnica => -15
+Pionowa różnica => 186
+
+Piksel o współrzędnych (26, 303) 
+Pozioma różnica => 3
+Pionowa różnica => 167
+
+Piksel o współrzędnych (27, 0) 
+Pozioma różnica => 171
+Pionowa różnica => -168
+
+Piksel o współrzędnych (27, 15) 
+Pozioma różnica => -158
+Pionowa różnica => -10
+
+Piksel o współrzędnych (27, 16) 
+Pozioma różnica => 157
+Pionowa różnica => -156
+
+Piksel o współrzędnych (27, 44) 
+Pozioma różnica => -170
+Pionowa różnica => -7
+
+Piksel o współrzędnych (27, 45) 
+Pozioma różnica => 184
+Pionowa różnica => -178
+
+Piksel o współrzędnych (27, 60) 
+Pozioma różnica => -173
+Pionowa różnica => -2
+
+Piksel o współrzędnych (27, 61) 
+Pozioma różnica => 181
+Pionowa różnica => -170
+
+Piksel o współrzędnych (27, 66) 
+Pozioma różnica => -176
+Pionowa różnica => 6
+
+Piksel o współrzędnych (27, 67) 
+Pozioma różnica => 177
+Pionowa różnica => -163
+
+Piksel o współrzędnych (27, 71) 
+Pozioma różnica => -176
+Pionowa różnica => -6
+
+Piksel o współrzędnych (27, 72) 
+Pozioma różnica => 172
+Pionowa różnica => -170
+
+Piksel o współrzędnych (27, 246) 
+Pozioma różnica => -172
+Pionowa różnica => -6
+
+Piksel o współrzędnych (27, 247) 
+Pozioma różnica => 176
+Pionowa różnica => -170
+
+Piksel o współrzędnych (27, 251) 
+Pozioma różnica => -177
+Pionowa różnica => 12
+
+Piksel o współrzędnych (27, 252) 
+Pozioma różnica => 176
+Pionowa różnica => -163
+
+Piksel o współrzędnych (27, 257) 
+Pozioma różnica => -181
+Pionowa różnica => 4
+
+Piksel o współrzędnych (27, 258) 
+Pozioma różnica => 173
+Pionowa różnica => -170
+
+Piksel o współrzędnych (27, 273) 
+Pozioma różnica => -184
+Pionowa różnica => 7
+
+Piksel o współrzędnych (27, 274) 
+Pozioma różnica => 170
+Pionowa różnica => -178
+
+Piksel o współrzędnych (27, 302) 
+Pozioma różnica => -157
+Pionowa różnica => 2
+
+Piksel o współrzędnych (27, 303) 
+Pozioma różnica => 158
+Pionowa różnica => -156
+
+Piksel o współrzędnych (27, 318) 
+Pozioma różnica => -171
+Pionowa różnica => 10
+
+Piksel o współrzędnych (30, 11) 
+Pozioma różnica => 9
+Pionowa różnica => 166
+
+Piksel o współrzędnych (30, 80) 
+Pozioma różnica => 1
+Pionowa różnica => 174
+
+Piksel o współrzędnych (30, 83) 
+Pozioma różnica => -3
+Pionowa różnica => 176
+
+Piksel o współrzędnych (30, 98) 
+Pozioma różnica => 6
+Pionowa różnica => 158
+
+Piksel o współrzędnych (30, 119) 
+Pozioma różnica => -1
+Pionowa różnica => 167
+
+Piksel o współrzędnych (30, 142) 
+Pozioma różnica => -7
+Pionowa różnica => 174
+
+Piksel o współrzędnych (30, 177) 
+Pozioma różnica => -8
+Pionowa różnica => 174
+
+Piksel o współrzędnych (30, 200) 
+Pozioma różnica => 4
+Pionowa różnica => 167
+
+Piksel o współrzędnych (30, 221) 
+Pozioma różnica => 7
+Pionowa różnica => 158
+
+Piksel o współrzędnych (30, 236) 
+Pozioma różnica => -6
+Pionowa różnica => 176
+
+Piksel o współrzędnych (30, 239) 
+Pozioma różnica => 1
+Pionowa różnica => 174
+
+Piksel o współrzędnych (30, 308) 
+Pozioma różnica => 7
+Pionowa różnica => 166
+
+Piksel o współrzędnych (31, 10) 
+Pozioma różnica => -170
+Pionowa różnica => 8
+
+Piksel o współrzędnych (31, 11) 
+Pozioma różnica => 177
+Pionowa różnica => -166
+
+Piksel o współrzędnych (31, 79) 
+Pozioma różnica => -172
+Pionowa różnica => 1
+
+Piksel o współrzędnych (31, 80) 
+Pozioma różnica => 179
+Pionowa różnica => -164
+
+Piksel o współrzędnych (31, 82) 
+Pozioma różnica => -173
+Pionowa różnica => -6
+
+Piksel o współrzędnych (31, 83) 
+Pozioma różnica => 165
+Pionowa różnica => -171
+
+Piksel o współrzędnych (31, 97) 
+Pozioma różnica => -165
+Pionowa różnica => 5
+
+Piksel o współrzędnych (31, 98) 
+Pozioma różnica => 157
+Pionowa różnica => -152
+
+Piksel o współrzędnych (31, 118) 
+Pozioma różnica => -178
+Pionowa różnica => 8
+
+Piksel o współrzędnych (31, 119) 
+Pozioma różnica => 171
+Pionowa różnica => -165
+
+Piksel o współrzędnych (31, 141) 
+Pozioma różnica => -165
+Pionowa różnica => -10
+
+Piksel o współrzędnych (31, 142) 
+Pozioma różnica => 169
+Pionowa różnica => -168
+
+Piksel o współrzędnych (31, 176) 
+Pozioma różnica => -169
+Pionowa różnica => 1
+
+Piksel o współrzędnych (31, 177) 
+Pozioma różnica => 165
+Pionowa różnica => -168
+
+Piksel o współrzędnych (31, 199) 
+Pozioma różnica => -171
+Pionowa różnica => 6
+
+Piksel o współrzędnych (31, 200) 
+Pozioma różnica => 178
+Pionowa różnica => -165
+
+Piksel o współrzędnych (31, 220) 
+Pozioma różnica => -157
+Pionowa różnica => 4
+
+Piksel o współrzędnych (31, 221) 
+Pozioma różnica => 165
+Pionowa różnica => -153
+
+Piksel o współrzędnych (31, 235) 
+Pozioma różnica => -165
+Pionowa różnica => -10
+
+Piksel o współrzędnych (31, 236) 
+Pozioma różnica => 173
+Pionowa różnica => -171
+
+Piksel o współrzędnych (31, 238) 
+Pozioma różnica => -179
+Pionowa różnica => 12
+
+Piksel o współrzędnych (31, 239) 
+Pozioma różnica => 172
+Pionowa różnica => -164
+
+Piksel o współrzędnych (31, 307) 
+Pozioma różnica => -177
+Pionowa różnica => 1
+
+Piksel o współrzędnych (31, 308) 
+Pozioma różnica => 170
+Pionowa różnica => -166
+
+Piksel o współrzędnych (32, 25) 
+Pozioma różnica => -2
+Pionowa różnica => 154
+
+Piksel o współrzędnych (32, 33) 
+Pozioma różnica => -2
+Pionowa różnica => 169
+
+Piksel o współrzędnych (32, 49) 
+Pozioma różnica => 1
+Pionowa różnica => 159
+
+Piksel o współrzędnych (32, 97) 
+Pozioma różnica => -8
+Pionowa różnica => 173
+
+Piksel o współrzędnych (32, 98) 
+Pozioma różnica => 9
+Pionowa różnica => 165
+
+Piksel o współrzędnych (32, 113) 
+Pozioma różnica => 7
+Pionowa różnica => 171
+
+Piksel o współrzędnych (32, 141) 
+Pozioma różnica => -7
+Pionowa różnica => 175
+
+Piksel o współrzędnych (32, 149) 
+Pozioma różnica => -6
+Pionowa różnica => 169
+
+Piksel o współrzędnych (32, 170) 
+Pozioma różnica => -2
+Pionowa różnica => 169
+
+Piksel o współrzędnych (32, 178) 
+Pozioma różnica => -10
+Pionowa różnica => 175
+
+Piksel o współrzędnych (32, 206) 
+Pozioma różnica => 0
+Pionowa różnica => 166
+
+Piksel o współrzędnych (32, 221) 
+Pozioma różnica => 0
+Pionowa różnica => 166
+
+Piksel o współrzędnych (32, 222) 
+Pozioma różnica => 0
+Pionowa różnica => 166
+
+Piksel o współrzędnych (32, 270) 
+Pozioma różnica => 8
+Pionowa różnica => 159
+
+Piksel o współrzędnych (32, 286) 
+Pozioma różnica => 5
+Pionowa różnica => 169
+
+Piksel o współrzędnych (32, 294) 
+Pozioma różnica => 0
+Pionowa różnica => 154
+
+Piksel o współrzędnych (33, 5) 
+Pozioma różnica => -1
+Pionowa różnica => 155
+
+Piksel o współrzędnych (33, 14) 
+Pozioma różnica => 4
+Pionowa różnica => 162
+
+Piksel o współrzędnych (33, 24) 
+Pozioma różnica => -153
+Pionowa różnica => -6
+
+Piksel o współrzędnych (33, 25) 
+Pozioma różnica => 161
+Pionowa różnica => -158
+
+Piksel o współrzędnych (33, 32) 
+Pozioma różnica => -166
+Pionowa różnica => -4
+
+Piksel o współrzędnych (33, 33) 
+Pozioma różnica => 172
+Pionowa różnica => -173
+
+Piksel o współrzędnych (33, 39) 
+Pozioma różnica => -7
+Pionowa różnica => 157
+
+Piksel o współrzędnych (33, 43) 
+Pozioma różnica => -2
+Pionowa różnica => 166
+
+Piksel o współrzędnych (33, 48) 
+Pozioma różnica => -167
+Pionowa różnica => 3
+
+Piksel o współrzędnych (33, 49) 
+Pozioma różnica => 153
+Pionowa różnica => -162
+
+Piksel o współrzędnych (33, 87) 
+Pozioma różnica => 9
+Pionowa różnica => 155
+
+Piksel o współrzędnych (33, 96) 
+Pozioma różnica => -165
+Pionowa różnica => -10
+
+Piksel o współrzędnych (33, 97) 
+Pozioma różnica => 0
+Pionowa różnica => -176
+
+Piksel o współrzędnych (33, 98) 
+Pozioma różnica => 176
+Pionowa różnica => -166
+
+Piksel o współrzędnych (33, 112) 
+Pozioma różnica => -169
+Pionowa różnica => 2
+
+Piksel o współrzędnych (33, 113) 
+Pozioma różnica => 165
+Pionowa różnica => -176
+
+Piksel o współrzędnych (33, 137) 
+Pozioma różnica => 5
+Pionowa różnica => 163
+
+Piksel o współrzędnych (33, 140) 
+Pozioma różnica => -168
+Pionowa różnica => -3
+
+Piksel o współrzędnych (33, 141) 
+Pozioma różnica => 167
+Pionowa różnica => -173
+
+Piksel o współrzędnych (33, 148) 
+Pozioma różnica => -173
+Pionowa różnica => 8
+
+Piksel o współrzędnych (33, 149) 
+Pozioma różnica => 176
+Pionowa różnica => -163
+
+Piksel o współrzędnych (33, 158) 
+Pozioma różnica => 4
+Pionowa różnica => 168
+
+Piksel o współrzędnych (33, 161) 
+Pozioma różnica => -4
+Pionowa różnica => 168
+
+Piksel o współrzędnych (33, 169) 
+Pozioma różnica => -176
+Pionowa różnica => 5
+
+Piksel o współrzędnych (33, 170) 
+Pozioma różnica => 173
+Pionowa różnica => -163
+
+Piksel o współrzędnych (33, 177) 
+Pozioma różnica => -167
+Pionowa różnica => 7
+
+Piksel o współrzędnych (33, 178) 
+Pozioma różnica => 168
+Pionowa różnica => -173
+
+Piksel o współrzędnych (33, 182) 
+Pozioma różnica => 5
+Pionowa różnica => 163
+
+Piksel o współrzędnych (33, 205) 
+Pozioma różnica => -165
+Pionowa różnica => -5
+
+Piksel o współrzędnych (33, 206) 
+Pozioma różnica => 169
+Pionowa różnica => -176
+
+Piksel o współrzędnych (33, 220) 
+Pozioma różnica => -176
+Pionowa różnica => 4
+
+Piksel o współrzędnych (33, 221) 
+Pozioma różnica => 0
+Pionowa różnica => -166
+
+Piksel o współrzędnych (33, 222) 
+Pozioma różnica => 165
+Pionowa różnica => -176
+
+Piksel o współrzędnych (33, 232) 
+Pozioma różnica => -2
+Pionowa różnica => 155
+
+Piksel o współrzędnych (33, 269) 
+Pozioma różnica => -153
+Pionowa różnica => -9
+
+Piksel o współrzędnych (33, 270) 
+Pozioma różnica => 167
+Pionowa różnica => -162
+
+Piksel o współrzędnych (33, 276) 
+Pozioma różnica => -2
+Pionowa różnica => 166
+
+Piksel o współrzędnych (33, 280) 
+Pozioma różnica => 4
+Pionowa różnica => 157
+
+Piksel o współrzędnych (33, 285) 
+Pozioma różnica => -172
+Pionowa różnica => 9
+
+Piksel o współrzędnych (33, 286) 
+Pozioma różnica => 166
+Pionowa różnica => -173
+
+Piksel o współrzędnych (33, 293) 
+Pozioma różnica => -161
+Pionowa różnica => -1
+
+Piksel o współrzędnych (33, 294) 
+Pozioma różnica => 153
+Pionowa różnica => -158
+
+Piksel o współrzędnych (33, 305) 
+Pozioma różnica => -1
+Pionowa różnica => 162
+
+Piksel o współrzędnych (33, 314) 
+Pozioma różnica => -3
+Pionowa różnica => 155
+
+Piksel o współrzędnych (34, 4) 
+Pozioma różnica => -154
+Pionowa różnica => -8
+
+Piksel o współrzędnych (34, 5) 
+Pozioma różnica => 160
+Pionowa różnica => -162
+
+Piksel o współrzędnych (34, 13) 
+Pozioma różnica => -167
+Pionowa różnica => 8
+
+Piksel o współrzędnych (34, 14) 
+Pozioma różnica => 167
+Pionowa różnica => -159
+
+Piksel o współrzędnych (34, 38) 
+Pozioma różnica => -154
+Pionowa różnica => 6
+
+Piksel o współrzędnych (34, 39) 
+Pozioma różnica => 155
+Pionowa różnica => -147
+
+Piksel o współrzędnych (34, 42) 
+Pozioma różnica => -154
+Pionowa różnica => 4
+
+Piksel o współrzędnych (34, 43) 
+Pozioma różnica => 165
+Pionowa różnica => -164
+
+Piksel o współrzędnych (34, 86) 
+Pozioma różnica => -154
+Pionowa różnica => 3
+
+Piksel o współrzędnych (34, 87) 
+Pozioma różnica => 151
+Pionowa różnica => -164
+
+Piksel o współrzędnych (34, 136) 
+Pozioma różnica => -166
+Pionowa różnica => 12
+
+Piksel o współrzędnych (34, 137) 
+Pozioma różnica => 167
+Pionowa różnica => -157
+
+Piksel o współrzędnych (34, 157) 
+Pozioma różnica => -167
+Pionowa różnica => -9
+
+Piksel o współrzędnych (34, 158) 
+Pozioma różnica => 171
+Pionowa różnica => -170
+
+Piksel o współrzędnych (34, 160) 
+Pozioma różnica => -171
+Pionowa różnica => -1
+
+Piksel o współrzędnych (34, 161) 
+Pozioma różnica => 167
+Pionowa różnica => -170
+
+Piksel o współrzędnych (34, 181) 
+Pozioma różnica => -167
+Pionowa różnica => 2
+
+Piksel o współrzędnych (34, 182) 
+Pozioma różnica => 166
+Pionowa różnica => -157
+
+Piksel o współrzędnych (34, 231) 
+Pozioma różnica => -151
+Pionowa różnica => -11
+
+Piksel o współrzędnych (34, 232) 
+Pozioma różnica => 154
+Pionowa różnica => -164
+
+Piksel o współrzędnych (34, 275) 
+Pozioma różnica => -165
+Pionowa różnica => 15
+
+Piksel o współrzędnych (34, 276) 
+Pozioma różnica => 154
+Pionowa różnica => -164
+
+Piksel o współrzędnych (34, 279) 
+Pozioma różnica => -155
+Pionowa różnica => 2
+
+Piksel o współrzędnych (34, 280) 
+Pozioma różnica => 154
+Pionowa różnica => -147
+
+Piksel o współrzędnych (34, 304) 
+Pozioma różnica => -167
+Pionowa różnica => 8
+
+Piksel o współrzędnych (34, 305) 
+Pozioma różnica => 167
+Pionowa różnica => -159
+
+Piksel o współrzędnych (34, 313) 
+Pozioma różnica => -160
+Pionowa różnica => 9
+
+Piksel o współrzędnych (34, 314) 
+Pozioma różnica => 154
+Pionowa różnica => -162
+
+Piksel o współrzędnych (35, 90) 
+Pozioma różnica => -5
+Pionowa różnica => 154
+
+Piksel o współrzędnych (35, 229) 
+Pozioma różnica => -8
+Pionowa różnica => 154
+
+Piksel o współrzędnych (36, 89) 
+Pozioma różnica => -147
+Pionowa różnica => -6
+
+Piksel o współrzędnych (36, 90) 
+Pozioma różnica => 150
+Pionowa różnica => -151
+
+Piksel o współrzędnych (36, 228) 
+Pozioma różnica => -150
+Pionowa różnica => 6
+
+Piksel o współrzędnych (36, 229) 
+Pozioma różnica => 147
+Pionowa różnica => -151
+
+Piksel o współrzędnych (39, 5) 
+Pozioma różnica => -7
+Pionowa różnica => 162
+
+Piksel o współrzędnych (39, 11) 
+Pozioma różnica => 6
+Pionowa różnica => 161
+
+Piksel o współrzędnych (39, 13) 
+Pozioma różnica => 2
+Pionowa różnica => 148
+
+Piksel o współrzędnych (39, 36) 
+Pozioma różnica => -4
+Pionowa różnica => 165
+
+Piksel o współrzędnych (39, 72) 
+Pozioma różnica => 2
+Pionowa różnica => 151
+
+Piksel o współrzędnych (39, 79) 
+Pozioma różnica => 4
+Pionowa różnica => 153
+
+Piksel o współrzędnych (39, 82) 
+Pozioma różnica => -3
+Pionowa różnica => 147
+
+Piksel o współrzędnych (39, 136) 
+Pozioma różnica => -3
+Pionowa różnica => 161
+
+Piksel o współrzędnych (39, 159) 
+Pozioma różnica => 0
+Pionowa różnica => 155
+
+Piksel o współrzędnych (39, 160) 
+Pozioma różnica => 6
+Pionowa różnica => 155
+
+Piksel o współrzędnych (39, 183) 
+Pozioma różnica => 2
+Pionowa różnica => 161
+
+Piksel o współrzędnych (39, 237) 
+Pozioma różnica => -1
+Pionowa różnica => 147
+
+Piksel o współrzędnych (39, 240) 
+Pozioma różnica => 8
+Pionowa różnica => 153
+
+Piksel o współrzędnych (39, 247) 
+Pozioma różnica => -4
+Pionowa różnica => 151
+
+Piksel o współrzędnych (39, 283) 
+Pozioma różnica => 6
+Pionowa różnica => 165
+
+Piksel o współrzędnych (39, 306) 
+Pozioma różnica => 8
+Pionowa różnica => 148
+
+Piksel o współrzędnych (39, 308) 
+Pozioma różnica => 1
+Pionowa różnica => 161
+
+Piksel o współrzędnych (39, 314) 
+Pozioma różnica => 2
+Pionowa różnica => 162
+
+Piksel o współrzędnych (40, 4) 
+Pozioma różnica => -149
+Pionowa różnica => -11
+
+Piksel o współrzędnych (40, 5) 
+Pozioma różnica => 149
+Pionowa różnica => -151
+
+Piksel o współrzędnych (40, 10) 
+Pozioma różnica => -155
+Pionowa różnica => -6
+
+Piksel o współrzędnych (40, 11) 
+Pozioma różnica => 165
+Pionowa różnica => -154
+
+Piksel o współrzędnych (40, 12) 
+Pozioma różnica => -154
+Pionowa różnica => -1
+
+Piksel o współrzędnych (40, 13) 
+Pozioma różnica => 149
+Pionowa różnica => -147
+
+Piksel o współrzędnych (40, 35) 
+Pozioma różnica => -164
+Pionowa różnica => 1
+
+Piksel o współrzędnych (40, 36) 
+Pozioma różnica => 162
+Pionowa różnica => -157
+
+Piksel o współrzędnych (40, 71) 
+Pozioma różnica => -159
+Pionowa różnica => 8
+
+Piksel o współrzędnych (40, 72) 
+Pozioma różnica => 145
+Pionowa różnica => -152
+
+Piksel o współrzędnych (40, 78) 
+Pozioma różnica => -158
+Pionowa różnica => 6
+
+Piksel o współrzędnych (40, 79) 
+Pozioma różnica => 151
+Pionowa różnica => -149
+
+Piksel o współrzędnych (40, 81) 
+Pozioma różnica => -144
+Pionowa różnica => 1
+
+Piksel o współrzędnych (40, 82) 
+Pozioma różnica => 155
+Pionowa różnica => -149
+
+Piksel o współrzędnych (40, 135) 
+Pozioma różnica => -163
+Pionowa różnica => 1
+
+Piksel o współrzędnych (40, 136) 
+Pozioma różnica => 164
+Pionowa różnica => -160
+
+Piksel o współrzędnych (40, 158) 
+Pozioma różnica => -150
+Pionowa różnica => -4
+
+Piksel o współrzędnych (40, 159) 
+Pozioma różnica => 0
+Pionowa różnica => -161
+
+Piksel o współrzędnych (40, 160) 
+Pozioma różnica => 150
+Pionowa różnica => -161
+
+Piksel o współrzędnych (40, 182) 
+Pozioma różnica => -164
+Pionowa różnica => 9
+
+Piksel o współrzędnych (40, 183) 
+Pozioma różnica => 163
+Pionowa różnica => -160
+
+Piksel o współrzędnych (40, 236) 
+Pozioma różnica => -155
+Pionowa różnica => 8
+
+Piksel o współrzędnych (40, 237) 
+Pozioma różnica => 144
+Pionowa różnica => -149
+
+Piksel o współrzędnych (40, 239) 
+Pozioma różnica => -151
+Pionowa różnica => 4
+
+Piksel o współrzędnych (40, 240) 
+Pozioma różnica => 158
+Pionowa różnica => -149
+
+Piksel o współrzędnych (40, 246) 
+Pozioma różnica => -145
+Pionowa różnica => -12
+
+Piksel o współrzędnych (40, 247) 
+Pozioma różnica => 159
+Pionowa różnica => -152
+
+Piksel o współrzędnych (40, 282) 
+Pozioma różnica => -162
+Pionowa różnica => 2
+
+Piksel o współrzędnych (40, 283) 
+Pozioma różnica => 164
+Pionowa różnica => -157
+
+Piksel o współrzędnych (40, 305) 
+Pozioma różnica => -149
+Pionowa różnica => -5
+
+Piksel o współrzędnych (40, 306) 
+Pozioma różnica => 154
+Pionowa różnica => -147
+
+Piksel o współrzędnych (40, 307) 
+Pozioma różnica => -165
+Pionowa różnica => -1
+
+Piksel o współrzędnych (40, 308) 
+Pozioma różnica => 155
+Pionowa różnica => -154
+
+Piksel o współrzędnych (40, 313) 
+Pozioma różnica => -149
+Pionowa różnica => -1
+
+Piksel o współrzędnych (40, 314) 
+Pozioma różnica => 149
+Pionowa różnica => -151
+
+Piksel o współrzędnych (41, 8) 
+Pozioma różnica => 3
+Pionowa różnica => 157
+
+Piksel o współrzędnych (41, 31) 
+Pozioma różnica => 7
+Pionowa różnica => 156
+
+Piksel o współrzędnych (41, 36) 
+Pozioma różnica => 3
+Pionowa różnica => 148
+
+Piksel o współrzędnych (41, 93) 
+Pozioma różnica => 11
+Pionowa różnica => 155
+
+Piksel o współrzędnych (41, 226) 
+Pozioma różnica => 10
+Pionowa różnica => 155
+
+Piksel o współrzędnych (41, 283) 
+Pozioma różnica => 6
+Pionowa różnica => 148
+
+Piksel o współrzędnych (41, 288) 
+Pozioma różnica => 6
+Pionowa różnica => 156
+
+Piksel o współrzędnych (41, 311) 
+Pozioma różnica => -10
+Pionowa różnica => 157
+
+Piksel o współrzędnych (42, 7) 
+Pozioma różnica => -151
+Pionowa różnica => 7
+
+Piksel o współrzędnych (42, 8) 
+Pozioma różnica => 154
+Pionowa różnica => -150
+
+Piksel o współrzędnych (42, 30) 
+Pozioma różnica => -157
+Pionowa różnica => -4
+
+Piksel o współrzędnych (42, 31) 
+Pozioma różnica => 152
+Pionowa różnica => -150
+
+Piksel o współrzędnych (42, 35) 
+Pozioma różnica => -145
+Pionowa różnica => 1
+
+Piksel o współrzędnych (42, 36) 
+Pozioma różnica => 159
+Pionowa różnica => -151
+
+Piksel o współrzędnych (42, 92) 
+Pozioma różnica => -157
+Pionowa różnica => 7
+
+Piksel o współrzędnych (42, 93) 
+Pozioma różnica => 156
+Pionowa różnica => -154
+
+Piksel o współrzędnych (42, 225) 
+Pozioma różnica => -156
+Pionowa różnica => -1
+
+Piksel o współrzędnych (42, 226) 
+Pozioma różnica => 157
+Pionowa różnica => -154
+
+Piksel o współrzędnych (42, 282) 
+Pozioma różnica => -159
+Pionowa różnica => 11
+
+Piksel o współrzędnych (42, 283) 
+Pozioma różnica => 145
+Pionowa różnica => -151
+
+Piksel o współrzędnych (42, 287) 
+Pozioma różnica => -152
+Pionowa różnica => 1
+
+Piksel o współrzędnych (42, 288) 
+Pozioma różnica => 157
+Pionowa różnica => -150
+
+Piksel o współrzędnych (42, 310) 
+Pozioma różnica => -154
+Pionowa różnica => 7
+
+Piksel o współrzędnych (42, 311) 
+Pozioma różnica => 151
+Pionowa różnica => -150
+
+Piksel o współrzędnych (66, 55) 
+Pozioma różnica => 5
+Pionowa różnica => 129
+
+Piksel o współrzędnych (66, 125) 
+Pozioma różnica => 3
+Pionowa różnica => 135
+
+Piksel o współrzędnych (66, 194) 
+Pozioma różnica => 4
+Pionowa różnica => 135
+
+Piksel o współrzędnych (66, 264) 
+Pozioma różnica => -5
+Pionowa różnica => 129
+
+Piksel o współrzędnych (67, 40) 
+Pozioma różnica => 133
+Pionowa różnica => -127
+
+Piksel o współrzędnych (67, 55) 
+Pozioma różnica => 126
+Pionowa różnica => -134
+
+Piksel o współrzędnych (67, 117) 
+Pozioma różnica => -132
+Pionowa różnica => 9
+
+Piksel o współrzędnych (67, 124) 
+Pozioma różnica => -138
+Pionowa różnica => 13
+
+Piksel o współrzędnych (67, 125) 
+Pozioma różnica => 129
+Pionowa różnica => -125
+
+Piksel o współrzędnych (67, 135) 
+Pozioma różnica => 120
+Pionowa różnica => -129
+
+Piksel o współrzędnych (67, 137) 
+Pozioma różnica => -130
+Pionowa różnica => -3
+
+Piksel o współrzędnych (67, 138) 
+Pozioma różnica => 129
+Pionowa różnica => -129
+
+Piksel o współrzędnych (67, 180) 
+Pozioma różnica => -129
+Pionowa różnica => 1
+
+Piksel o współrzędnych (67, 181) 
+Pozioma różnica => 130
+Pionowa różnica => -129
+
+Piksel o współrzędnych (67, 184) 
+Pozioma różnica => 119
+Pionowa różnica => -129
+
+Piksel o współrzędnych (67, 193) 
+Pozioma różnica => -129
+Pionowa różnica => -9
+
+Piksel o współrzędnych (67, 194) 
+Pozioma różnica => 138
+Pionowa różnica => -125
+
+Piksel o współrzędnych (67, 201) 
+Pozioma różnica => 132
+Pionowa różnica => -126
+
+Piksel o współrzędnych (67, 264) 
+Pozioma różnica => 128
+Pionowa różnica => -134
+
+Piksel o współrzędnych (67, 278) 
+Pozioma różnica => -133
+Pionowa różnica => 6
+
+Piksel o współrzędnych (69, 5) 
+Pozioma różnica => 0
+Pionowa różnica => 136
+
+Piksel o współrzędnych (69, 68) 
+Pozioma różnica => -1
+Pionowa różnica => 130
+
+Piksel o współrzędnych (69, 217) 
+Pozioma różnica => -6
+Pionowa różnica => 133
+
+Piksel o współrzędnych (69, 237) 
+Pozioma różnica => -12
+Pionowa różnica => 130
+
+Piksel o współrzędnych (69, 251) 
+Pozioma różnica => 7
+Pionowa różnica => 130
+
+Piksel o współrzędnych (69, 314) 
+Pozioma różnica => 0
+Pionowa różnica => 136
+
+Piksel o współrzędnych (70, 4) 
+Pozioma różnica => -131
+Pionowa różnica => 3
+
+Piksel o współrzędnych (70, 5) 
+Pozioma różnica => 131
+Pionowa różnica => -128
+
+Piksel o współrzędnych (70, 102) 
+Pozioma różnica => 130
+Pionowa różnica => -122
+
+Piksel o współrzędnych (70, 216) 
+Pozioma różnica => -130
+Pionowa różnica => 5
+
+Piksel o współrzędnych (70, 313) 
+Pozioma różnica => -131
+Pionowa różnica => -2
+
+Piksel o współrzędnych (70, 314) 
+Pozioma różnica => 131
+Pionowa różnica => -128
+
+Piksel o współrzędnych (73, 23) 
+Pozioma różnica => -2
+Pionowa różnica => 130
+
+Piksel o współrzędnych (74, 23) 
+Pozioma różnica => 134
+Pionowa różnica => -134
+
+Piksel o współrzędnych (199, 0) 
+Pozioma różnica => 0
+Pionowa różnica => 8413675
+
+Piksel o współrzędnych (199, 1) 
+Pozioma różnica => 4
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 2) 
+Pozioma różnica => 1
+Pionowa różnica => 8420111
+
+Piksel o współrzędnych (199, 3) 
+Pozioma różnica => -13
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 4) 
+Pozioma różnica => 4
+Pionowa różnica => 8421859
+
+Piksel o współrzędnych (199, 5) 
+Pozioma różnica => 6
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 6) 
+Pozioma różnica => 0
+Pionowa różnica => 6293006
+
+Piksel o współrzędnych (199, 7) 
+Pozioma różnica => -4
+Pionowa różnica => 32553
+
+Piksel o współrzędnych (199, 8) 
+Pozioma różnica => 7
+Pionowa różnica => 8326345
+
+Piksel o współrzędnych (199, 9) 
+Pozioma różnica => -13
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 10) 
+Pozioma różnica => 13
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 11) 
+Pozioma różnica => -9
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 12) 
+Pozioma różnica => 1
+Pionowa różnica => 1827
+
+Piksel o współrzędnych (199, 13) 
+Pozioma różnica => -4
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 14) 
+Pozioma różnica => 14
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 15) 
+Pozioma różnica => -1
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 16) 
+Pozioma różnica => 1
+Pionowa różnica => 5263001
+
+Piksel o współrzędnych (199, 17) 
+Pozioma różnica => -9
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 18) 
+Pozioma różnica => -4
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 19) 
+Pozioma różnica => 11
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 20) 
+Pozioma różnica => -2
+Pionowa różnica => 5263040
+
+Piksel o współrzędnych (199, 21) 
+Pozioma różnica => -4
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 22) 
+Pozioma różnica => 1
+Pionowa różnica => 5262730
+
+Piksel o współrzędnych (199, 23) 
+Pozioma różnica => -5
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 24) 
+Pozioma różnica => 8
+Pionowa różnica => 9312550
+
+Piksel o współrzędnych (199, 25) 
+Pozioma różnica => 3
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 26) 
+Pozioma różnica => -9
+Pionowa różnica => 9312561
+
+Piksel o współrzędnych (199, 27) 
+Pozioma różnica => 5
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 28) 
+Pozioma różnica => -6
+Pionowa różnica => 9312557
+
+Piksel o współrzędnych (199, 29) 
+Pozioma różnica => 0
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 30) 
+Pozioma różnica => 6
+Pionowa różnica => 9312551
+
+Piksel o współrzędnych (199, 31) 
+Pozioma różnica => -5
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 32) 
+Pozioma różnica => 4
+Pionowa różnica => 9312881
+
+Piksel o współrzędnych (199, 33) 
+Pozioma różnica => -2
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 34) 
+Pozioma różnica => 8
+Pionowa różnica => 9313065
+
+Piksel o współrzędnych (199, 35) 
+Pozioma różnica => -4
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 36) 
+Pozioma różnica => 3
+Pionowa różnica => 5203342
+
+Piksel o współrzędnych (199, 37) 
+Pozioma różnica => 0
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 38) 
+Pozioma różnica => -3
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 39) 
+Pozioma różnica => -2
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 40) 
+Pozioma różnica => -9
+Pionowa różnica => 2121529836
+
+Piksel o współrzędnych (199, 41) 
+Pozioma różnica => 8
+Pionowa różnica => 32543
+
+Piksel o współrzędnych (199, 42) 
+Pozioma różnica => 6
+Pionowa różnica => -419430356
+
+Piksel o współrzędnych (199, 43) 
+Pozioma różnica => -10
+Pionowa różnica => 32557
+
+Piksel o współrzędnych (199, 44) 
+Pozioma różnica => 2
+Pionowa różnica => -201
+
+Piksel o współrzędnych (199, 45) 
+Pozioma różnica => -1
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 46) 
+Pozioma różnica => 4
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 47) 
+Pozioma różnica => -2
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 48) 
+Pozioma różnica => 7
+Pionowa różnica => 9312554
+
+Piksel o współrzędnych (199, 49) 
+Pozioma różnica => -8
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 50) 
+Pozioma różnica => 0
+Pionowa różnica => 297
+
+Piksel o współrzędnych (199, 51) 
+Pozioma różnica => 2
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 52) 
+Pozioma różnica => 7
+Pionowa różnica => 65324
+
+Piksel o współrzędnych (199, 53) 
+Pozioma różnica => -6
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 54) 
+Pozioma różnica => -4
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 55) 
+Pozioma różnica => 2
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 56) 
+Pozioma różnica => 7
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 57) 
+Pozioma różnica => -6
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 58) 
+Pozioma różnica => -2
+Pionowa różnica => -419430357
+
+Piksel o współrzędnych (199, 59) 
+Pozioma różnica => -2
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 60) 
+Pozioma różnica => -2
+Pionowa różnica => 5207143
+
+Piksel o współrzędnych (199, 61) 
+Pozioma różnica => 10
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 62) 
+Pozioma różnica => -7
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 63) 
+Pozioma różnica => -3
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 64) 
+Pozioma różnica => -2
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 65) 
+Pozioma różnica => 11
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 66) 
+Pozioma różnica => 4
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 67) 
+Pozioma różnica => -15
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 68) 
+Pozioma różnica => 1
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 69) 
+Pozioma różnica => 12
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 70) 
+Pozioma różnica => -6
+Pionowa różnica => 5263080
+
+Piksel o współrzędnych (199, 71) 
+Pozioma różnica => 7
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 72) 
+Pozioma różnica => -1
+Pionowa różnica => -201
+
+Piksel o współrzędnych (199, 73) 
+Pozioma różnica => -5
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 74) 
+Pozioma różnica => 7
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 75) 
+Pozioma różnica => -5
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 76) 
+Pozioma różnica => -3
+Pionowa różnica => 3887
+
+Piksel o współrzędnych (199, 77) 
+Pozioma różnica => -3
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 78) 
+Pozioma różnica => 1
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 79) 
+Pozioma różnica => 7
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 80) 
+Pozioma różnica => 0
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 81) 
+Pozioma różnica => -12
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 82) 
+Pozioma różnica => 14
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 83) 
+Pozioma różnica => 1
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 84) 
+Pozioma różnica => -8
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 85) 
+Pozioma różnica => 7
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 86) 
+Pozioma różnica => -6
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 87) 
+Pozioma różnica => -4
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 88) 
+Pozioma różnica => -3
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 89) 
+Pozioma różnica => 2
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 90) 
+Pozioma różnica => 10
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 91) 
+Pozioma różnica => -8
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 92) 
+Pozioma różnica => 9
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 93) 
+Pozioma różnica => -11
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 94) 
+Pozioma różnica => 3
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 95) 
+Pozioma różnica => 4
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 96) 
+Pozioma różnica => 2
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 97) 
+Pozioma różnica => -9
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 98) 
+Pozioma różnica => 4
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 99) 
+Pozioma różnica => 1
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 100) 
+Pozioma różnica => 3
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 101) 
+Pozioma różnica => -1
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 102) 
+Pozioma różnica => 3
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 103) 
+Pozioma różnica => -1
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 104) 
+Pozioma różnica => 0
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 105) 
+Pozioma różnica => -10
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 106) 
+Pozioma różnica => 7
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 107) 
+Pozioma różnica => -4
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 108) 
+Pozioma różnica => 5
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 109) 
+Pozioma różnica => -6
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 110) 
+Pozioma różnica => 7
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 111) 
+Pozioma różnica => 4
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 112) 
+Pozioma różnica => -8
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 113) 
+Pozioma różnica => 4
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 114) 
+Pozioma różnica => -5
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 115) 
+Pozioma różnica => 6
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 116) 
+Pozioma różnica => -9
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 117) 
+Pozioma różnica => 9
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 118) 
+Pozioma różnica => -4
+Pionowa różnica => -201
+
+Piksel o współrzędnych (199, 119) 
+Pozioma różnica => 1
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 120) 
+Pozioma różnica => -2
+Pionowa różnica => 8190516
+
+Piksel o współrzędnych (199, 121) 
+Pozioma różnica => -7
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 122) 
+Pozioma różnica => 14
+Pionowa różnica => 5203331
+
+Piksel o współrzędnych (199, 123) 
+Pozioma różnica => -6
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 124) 
+Pozioma różnica => -6
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 125) 
+Pozioma różnica => 11
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 126) 
+Pozioma różnica => -10
+Pionowa różnica => 4259920
+
+Piksel o współrzędnych (199, 127) 
+Pozioma różnica => 8
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 128) 
+Pozioma różnica => -7
+Pionowa różnica => 8190262
+
+Piksel o współrzędnych (199, 129) 
+Pozioma różnica => 0
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 130) 
+Pozioma różnica => 8
+Pionowa różnica => 5205351
+
+Piksel o współrzędnych (199, 131) 
+Pozioma różnica => -2
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 132) 
+Pozioma różnica => -3
+Pionowa różnica => 5207709
+
+Piksel o współrzędnych (199, 133) 
+Pozioma różnica => -2
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 134) 
+Pozioma różnica => 2
+Pionowa różnica => 5207672
+
+Piksel o współrzędnych (199, 135) 
+Pozioma różnica => -6
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 136) 
+Pozioma różnica => 6
+Pionowa różnica => 5262988
+
+Piksel o współrzędnych (199, 137) 
+Pozioma różnica => 6
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 138) 
+Pozioma różnica => -9
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 139) 
+Pozioma różnica => 3
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 140) 
+Pozioma różnica => -3
+Pionowa różnica => 5263034
+
+Piksel o współrzędnych (199, 141) 
+Pozioma różnica => 5
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 142) 
+Pozioma różnica => 4
+Pionowa różnica => 5262732
+
+Piksel o współrzędnych (199, 143) 
+Pozioma różnica => 1
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 144) 
+Pozioma różnica => -10
+Pionowa różnica => 9311985
+
+Piksel o współrzędnych (199, 145) 
+Pozioma różnica => 11
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 146) 
+Pozioma różnica => -3
+Pionowa różnica => 9311986
+
+Piksel o współrzędnych (199, 147) 
+Pozioma różnica => 2
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 148) 
+Pozioma różnica => -13
+Pionowa różnica => 9311985
+
+Piksel o współrzędnych (199, 149) 
+Pozioma różnica => 4
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 150) 
+Pozioma różnica => 0
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 151) 
+Pozioma różnica => 0
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 152) 
+Pozioma różnica => -1
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 153) 
+Pozioma różnica => 6
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 154) 
+Pozioma różnica => -6
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 155) 
+Pozioma różnica => -3
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 156) 
+Pozioma różnica => 4
+Pionowa różnica => 5203332
+
+Piksel o współrzędnych (199, 157) 
+Pozioma różnica => 4
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 158) 
+Pozioma różnica => 5
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 159) 
+Pozioma różnica => 0
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 160) 
+Pozioma różnica => -5
+Pionowa różnica => 2121529793
+
+Piksel o współrzędnych (199, 161) 
+Pozioma różnica => -4
+Pionowa różnica => 32552
+
+Piksel o współrzędnych (199, 162) 
+Pozioma różnica => -4
+Pionowa różnica => 8190761
+
+Piksel o współrzędnych (199, 163) 
+Pozioma różnica => 3
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 164) 
+Pozioma różnica => 6
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 165) 
+Pozioma różnica => -6
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 166) 
+Pozioma różnica => 1
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 167) 
+Pozioma różnica => 0
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 168) 
+Pozioma różnica => 0
+Pionowa różnica => 9311976
+
+Piksel o współrzędnych (199, 169) 
+Pozioma różnica => -4
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 170) 
+Pozioma różnica => 13
+Pionowa różnica => 292
+
+Piksel o współrzędnych (199, 171) 
+Pozioma różnica => -2
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 172) 
+Pozioma różnica => 3
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 173) 
+Pozioma różnica => -11
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 174) 
+Pozioma różnica => 10
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 175) 
+Pozioma różnica => -1
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 176) 
+Pozioma różnica => -4
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 177) 
+Pozioma różnica => -5
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 178) 
+Pozioma różnica => 3
+Pionowa różnica => 5212967
+
+Piksel o współrzędnych (199, 179) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 180) 
+Pozioma różnica => 0
+Pionowa różnica => 5207146
+
+Piksel o współrzędnych (199, 181) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 182) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 183) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 184) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 185) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 186) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 187) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 188) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 189) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 190) 
+Pozioma różnica => 0
+Pionowa różnica => 5263074
+
+Piksel o współrzędnych (199, 191) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 192) 
+Pozioma różnica => 0
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 193) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 194) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 195) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 196) 
+Pozioma różnica => 0
+Pionowa różnica => 3884
+
+Piksel o współrzędnych (199, 197) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 198) 
+Pozioma różnica => 0
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 199) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 200) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 201) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 202) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 203) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 204) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 205) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 206) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 207) 
+Pozioma różnica => 0
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 208) 
+Pozioma różnica => -3
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 209) 
+Pozioma różnica => 6
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 210) 
+Pozioma różnica => -5
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 211) 
+Pozioma różnica => 4
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 212) 
+Pozioma różnica => -7
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 213) 
+Pozioma różnica => 10
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 214) 
+Pozioma różnica => 0
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 215) 
+Pozioma różnica => 1
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 216) 
+Pozioma różnica => -3
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 217) 
+Pozioma różnica => 1
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 218) 
+Pozioma różnica => -3
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 219) 
+Pozioma różnica => -1
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 220) 
+Pozioma różnica => -4
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 221) 
+Pozioma różnica => 9
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 222) 
+Pozioma różnica => -2
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 223) 
+Pozioma różnica => -4
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 224) 
+Pozioma różnica => -3
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 225) 
+Pozioma różnica => 11
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 226) 
+Pozioma różnica => -9
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 227) 
+Pozioma różnica => 8
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 228) 
+Pozioma różnica => -10
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 229) 
+Pozioma różnica => -2
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 230) 
+Pozioma różnica => 3
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 231) 
+Pozioma różnica => 4
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 232) 
+Pozioma różnica => 6
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 233) 
+Pozioma różnica => -7
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 234) 
+Pozioma różnica => 8
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 235) 
+Pozioma różnica => -1
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 236) 
+Pozioma różnica => -14
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 237) 
+Pozioma różnica => 12
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 238) 
+Pozioma różnica => 0
+Pionowa różnica => -201
+
+Piksel o współrzędnych (199, 239) 
+Pozioma różnica => -7
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 240) 
+Pozioma różnica => -1
+Pionowa różnica => 8190992
+
+Piksel o współrzędnych (199, 241) 
+Pozioma różnica => 3
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 242) 
+Pozioma różnica => 3
+Pionowa różnica => 5203338
+
+Piksel o współrzędnych (199, 243) 
+Pozioma różnica => 5
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 244) 
+Pozioma różnica => -7
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 245) 
+Pozioma różnica => 5
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 246) 
+Pozioma różnica => 1
+Pionowa różnica => 4194096
+
+Piksel o współrzędnych (199, 247) 
+Pozioma różnica => -7
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 248) 
+Pozioma różnica => 6
+Pionowa różnica => 8190738
+
+Piksel o współrzędnych (199, 249) 
+Pozioma różnica => -12
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 250) 
+Pozioma różnica => -1
+Pionowa różnica => 5205348
+
+Piksel o współrzędnych (199, 251) 
+Pozioma różnica => 15
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 252) 
+Pozioma różnica => -4
+Pionowa różnica => 5207714
+
+Piksel o współrzędnych (199, 253) 
+Pozioma różnica => -11
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 254) 
+Pozioma różnica => 2
+Pionowa różnica => 5207667
+
+Piksel o współrzędnych (199, 255) 
+Pozioma różnica => 3
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 256) 
+Pozioma różnica => 7
+Pionowa różnica => 8503080
+
+Piksel o współrzędnych (199, 257) 
+Pozioma różnica => -10
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 258) 
+Pozioma różnica => 2
+Pionowa różnica => 1060
+
+Piksel o współrzędnych (199, 259) 
+Pozioma różnica => 2
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 260) 
+Pozioma różnica => 2
+Pionowa różnica => 1064
+
+Piksel o współrzędnych (199, 261) 
+Pozioma różnica => 6
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 262) 
+Pozioma różnica => -7
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 263) 
+Pozioma różnica => -2
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 264) 
+Pozioma różnica => 4
+Pionowa różnica => 8897796
+
+Piksel o współrzędnych (199, 265) 
+Pozioma różnica => 6
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 266) 
+Pozioma różnica => -7
+Pionowa różnica => 8803062
+
+Piksel o współrzędnych (199, 267) 
+Pozioma różnica => -2
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 269) 
+Pozioma różnica => 8
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 270) 
+Pozioma różnica => -7
+Pionowa różnica => -200
+
+Piksel o współrzędnych (199, 271) 
+Pozioma różnica => 2
+Pionowa różnica => -212
+
+Piksel o współrzędnych (199, 274) 
+Pozioma różnica => -2
+Pionowa różnica => 518
+
+Piksel o współrzędnych (199, 277) 
+Pozioma różnica => -8
+Pionowa różnica => -139
+
+Piksel o współrzędnych (199, 280) 
+Pozioma różnica => 3
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 281) 
+Pozioma różnica => 0
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 282) 
+Pozioma różnica => -3
+Pionowa różnica => -162
+
+Piksel o współrzędnych (199, 283) 
+Pozioma różnica => 4
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 284) 
+Pozioma różnica => -8
+Pionowa różnica => 9310930
+
+Piksel o współrzędnych (199, 285) 
+Pozioma różnica => 2
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 286) 
+Pozioma różnica => -4
+Pionowa różnica => 4199134
+
+Piksel o współrzędnych (199, 287) 
+Pozioma różnica => 5
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 288) 
+Pozioma różnica => -6
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 289) 
+Pozioma różnica => 0
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 290) 
+Pozioma różnica => 6
+Pionowa różnica => -172
+
+Piksel o współrzędnych (199, 291) 
+Pozioma różnica => -5
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 292) 
+Pozioma różnica => 9
+Pionowa różnica => 5415760
+
+Piksel o współrzędnych (199, 293) 
+Pozioma różnica => -3
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 294) 
+Pozioma różnica => -8
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 295) 
+Pozioma różnica => 5
+Pionowa różnica => -218
+
+Piksel o współrzędnych (199, 296) 
+Pozioma różnica => -1
+Pionowa różnica => -213
+
+Piksel o współrzędnych (199, 297) 
+Pozioma różnica => 4
+Pionowa różnica => -214
+
+Piksel o współrzędnych (199, 298) 
+Pozioma różnica => 2
+Pionowa różnica => -210
+
+Piksel o współrzędnych (199, 299) 
+Pozioma różnica => -11
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 300) 
+Pozioma różnica => 4
+Pionowa różnica => -219
+
+Piksel o współrzędnych (199, 301) 
+Pozioma różnica => 9
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 302) 
+Pozioma różnica => -1
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 303) 
+Pozioma różnica => 1
+Pionowa różnica => -207
+
+Piksel o współrzędnych (199, 304) 
+Pozioma różnica => -14
+Pionowa różnica => -206
+
+Piksel o współrzędnych (199, 305) 
+Pozioma różnica => 4
+Pionowa różnica => -220
+
+Piksel o współrzędnych (199, 306) 
+Pozioma różnica => -1
+Pionowa różnica => -216
+
+Piksel o współrzędnych (199, 307) 
+Pozioma różnica => 9
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 308) 
+Pozioma różnica => -13
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 309) 
+Pozioma różnica => 13
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 310) 
+Pozioma różnica => -7
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 311) 
+Pozioma różnica => 4
+Pionowa różnica => -215
+
+Piksel o współrzędnych (199, 312) 
+Pozioma różnica => 0
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 313) 
+Pozioma różnica => -6
+Pionowa różnica => -211
+
+Piksel o współrzędnych (199, 314) 
+Pozioma różnica => -4
+Pionowa różnica => -217
+
+Piksel o współrzędnych (199, 315) 
+Pozioma różnica => 13
+Pionowa różnica => -221
+
+Piksel o współrzędnych (199, 316) 
+Pozioma różnica => -1
+Pionowa różnica => -208
+
+Piksel o współrzędnych (199, 317) 
+Pozioma różnica => -4
+Pionowa różnica => -209
+
+Piksel o współrzędnych (199, 318) 
+Pozioma różnica => 0
+Pionowa różnica => -213
+
+Znaleziono 774 kontrastów.
