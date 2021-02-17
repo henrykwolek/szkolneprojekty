@@ -57,29 +57,45 @@ int main()
         roznice.push_back(roznica);
     }
 
-    int rozniceArr[1000][2];
-    for (int j = 0; j < wiersze.size() - 1; j++)
+    int max = 0;
+    vector<int> maxes;
+    int count = 0;
+    for (int j = 0; j < roznice.size() - 1; j++)
     {
         if (roznice[j] == roznice[j + 1])
         {
-            rozniceArr[j][0] = 1;
-            rozniceArr[j][1] = j;
+            count++;
+            if (count > max)
+            {
+                max = count;
+                maxes.push_back(max);
+            }
+        }
+        else
+        {
+            count = 0;
         }
     }
 
-    int occurences = 0;
-    for (int k = 0; k < rozniceArr.size(); k++)
+    cout << *max_element(maxes.begin(), maxes.end());
+    int x = 0;
+    for (int k = 0; k < roznice.size() - 1; k++)
     {
-        // if (rozniceArr[k][0] == *max_element(zgodnosci.begin(), zgodnosci.end()))
-        // {
-        //     cout << k + 1;
-        //     break;
-        // }
-
-        if (rozniceArr[i][0] == 1)
+        if (roznice[k] == roznice[k + 1])
         {
-            occurences++;
+            x++;
+        }
+        else if (x == 15)
+        {
+            cout << roznice[k] << "\n";
+            cout << roznice[k + 15];
+            break;
+        }
+        else
+        {
+            x = 0;
         }
         
     }
+    cout << "\n" <<  x;
 }
