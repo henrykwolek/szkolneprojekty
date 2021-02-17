@@ -7,40 +7,12 @@
 
 using namespace std;
 
-int mostFrequent(int arr[], int n) 
-{ 
-    // Sort the array 
-    sort(arr, arr + n); 
-  
-    // find the max frequency using linear traversal 
-    int max_count = 1, res = arr[0], curr_count = 1; 
-    for (int i = 1; i < n; i++) { 
-        if (arr[i] == arr[i - 1]) 
-            curr_count++; 
-        else { 
-            if (curr_count > max_count) { 
-                max_count = curr_count; 
-                res = arr[i - 1]; 
-            } 
-            curr_count = 1; 
-        } 
-    } 
-  
-    // If last element is most frequent 
-    if (curr_count > max_count) 
-    { 
-        max_count = curr_count; 
-        res = arr[n - 1]; 
-    } 
-  
-    return res; 
-}
-
 int main()
 {
-    fstream fileRead;
+    fstream fileRead, fileWrite;
     string line;
     fileRead.open("dane7.txt", ios::in);
+    fileWrite.open("odp_2_cpp.txt", ios::out);
     vector<int> wiersze;
     vector<int> roznice;
     vector<int> zgodnosci;
@@ -77,7 +49,6 @@ int main()
         }
     }
 
-    cout << *max_element(maxes.begin(), maxes.end());
     int x = 0;
     for (int k = 0; k < roznice.size() - 1; k++)
     {
@@ -87,15 +58,14 @@ int main()
         }
         else if (x == 15)
         {
-            cout << roznice[k] << "\n";
-            cout << roznice[k + 15];
+            fileWrite << roznice[k] << "\n";
+            fileWrite << roznice[k + 15] << "\n";
             break;
         }
         else
         {
             x = 0;
         }
-        
     }
-    cout << "\n" <<  x;
+    fileWrite << "Długość: " << x;
 }
