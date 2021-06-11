@@ -19,27 +19,23 @@ Pionowa różnica => -255
 
 Piksel o współrzędnych (199, 0) 
 Pozioma różnica => -32
-Pionowa różnica => 12473888
+Pionowa różnica => 8342352
 
 Piksel o współrzędnych (199, 2) 
 Pozioma różnica => 0
-Pionowa różnica => 12480288
+Pionowa różnica => 8348752
 
 Piksel o współrzędnych (199, 4) 
 Pozioma różnica => 0
-Pionowa różnica => 12482048
+Pionowa różnica => 8350512
 
 Piksel o współrzędnych (199, 6) 
 Pozioma różnica => 0
-Pionowa różnica => 6293153
-
-Piksel o współrzędnych (199, 7) 
-Pozioma różnica => 0
-Pionowa różnica => 32697
+Pionowa różnica => 1840128
 
 Piksel o współrzędnych (199, 8) 
 Pozioma różnica => 0
-Pionowa różnica => 12396128
+Pionowa różnica => 1861088
 
 Piksel o współrzędnych (199, 12) 
 Pozioma różnica => 0
@@ -59,27 +55,27 @@ Pionowa różnica => 5262880
 
 Piksel o współrzędnych (199, 24) 
 Pozioma różnica => 0
-Pionowa różnica => 13965760
+Pionowa różnica => 1841600
 
 Piksel o współrzędnych (199, 26) 
 Pozioma różnica => 0
-Pionowa różnica => 13965760
+Pionowa różnica => 1841600
 
 Piksel o współrzędnych (199, 28) 
 Pozioma różnica => 0
-Pionowa różnica => 13965760
+Pionowa różnica => 1841600
 
 Piksel o współrzędnych (199, 30) 
 Pozioma różnica => 0
-Pionowa różnica => 13965760
+Pionowa różnica => 1841600
 
 Piksel o współrzędnych (199, 32) 
 Pozioma różnica => 0
-Pionowa różnica => 13965853
+Pionowa różnica => 1841602
 
 Piksel o współrzędnych (199, 34) 
 Pozioma różnica => 0
-Pionowa różnica => 13966271
+Pionowa różnica => 1842111
 
 Piksel o współrzędnych (199, 36) 
 Pozioma różnica => 0
@@ -87,23 +83,23 @@ Pionowa różnica => 5203488
 
 Piksel o współrzędnych (199, 40) 
 Pozioma różnica => 0
-Pionowa różnica => -1726285184
+Pionowa różnica => 467401344
 
 Piksel o współrzędnych (199, 41) 
 Pozioma różnica => 0
-Pionowa różnica => 32697
+Pionowa różnica => 32700
 
 Piksel o współrzędnych (199, 42) 
 Pozioma różnica => 0
-Pionowa różnica => -419430207
+Pionowa różnica => -2080374847
 
 Piksel o współrzędnych (199, 43) 
 Pozioma różnica => 0
-Pionowa różnica => 32697
+Pionowa różnica => 32700
 
 Piksel o współrzędnych (199, 48) 
 Pozioma różnica => 0
-Pionowa różnica => 13965760
+Pionowa różnica => 1841600
 
 Piksel o współrzędnych (199, 50) 
 Pozioma różnica => 0
@@ -115,7 +111,7 @@ Pionowa różnica => 65473
 
 Piksel o współrzędnych (199, 58) 
 Pozioma różnica => 0
-Pionowa różnica => -419430208
+Pionowa różnica => -2080374848
 
 Piksel o współrzędnych (199, 60) 
 Pozioma różnica => 0
@@ -171,15 +167,15 @@ Pionowa różnica => 5262880
 
 Piksel o współrzędnych (199, 144) 
 Pozioma różnica => 0
-Pionowa różnica => 13965184
+Pionowa różnica => 1841024
 
 Piksel o współrzędnych (199, 146) 
 Pozioma różnica => 0
-Pionowa różnica => 13965184
+Pionowa różnica => 1841024
 
 Piksel o współrzędnych (199, 148) 
 Pozioma różnica => 0
-Pionowa różnica => 13965184
+Pionowa różnica => 1841024
 
 Piksel o współrzędnych (199, 156) 
 Pozioma różnica => 0
@@ -187,11 +183,11 @@ Pionowa różnica => 5203488
 
 Piksel o współrzędnych (199, 160) 
 Pozioma różnica => 0
-Pionowa różnica => -1726285248
+Pionowa różnica => 467401280
 
 Piksel o współrzędnych (199, 161) 
 Pozioma różnica => 0
-Pionowa różnica => 32681
+Pionowa różnica => 32684
 
 Piksel o współrzędnych (199, 162) 
 Pozioma różnica => 0
@@ -199,7 +195,7 @@ Pionowa różnica => 8190897
 
 Piksel o współrzędnych (199, 168) 
 Pozioma różnica => 0
-Pionowa różnica => 13965168
+Pionowa różnica => 1841008
 
 Piksel o współrzędnych (199, 170) 
 Pozioma różnica => 0
@@ -251,7 +247,7 @@ Pionowa różnica => 5207808
 
 Piksel o współrzędnych (199, 256) 
 Pozioma różnica => 0
-Pionowa różnica => 14019488
+Pionowa różnica => 1895216
 
 Piksel o współrzędnych (199, 258) 
 Pozioma różnica => 0
@@ -263,11 +259,11 @@ Pionowa różnica => 879
 
 Piksel o współrzędnych (199, 264) 
 Pozioma różnica => 0
-Pionowa różnica => 12825556
+Pionowa różnica => 8694020
 
 Piksel o współrzędnych (199, 266) 
 Pozioma różnica => 0
-Pionowa różnica => 12815284
+Pionowa różnica => 8683748
 
 Piksel o współrzędnych (199, 269) 
 Pozioma różnica => 0
@@ -283,7 +279,7 @@ Pionowa różnica => 240
 
 Piksel o współrzędnych (199, 284) 
 Pozioma różnica => 0
-Pionowa różnica => 13964112
+Pionowa różnica => 1839952
 
 Piksel o współrzędnych (199, 286) 
 Pozioma różnica => 0
@@ -293,4 +289,4 @@ Piksel o współrzędnych (199, 292)
 Pozioma różnica => 0
 Pionowa różnica => 5415896
 
-Znaleziono 72 kontrastów.
+Znaleziono 71 kontrastów.
